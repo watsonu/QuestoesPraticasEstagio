@@ -1,0 +1,15 @@
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao4\Questao4\bin\Debug\net8.0\Questao4.exe
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao4\Questao4\bin\Debug\net8.0\Questao4.deps.json
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao4\Questao4\bin\Debug\net8.0\Questao4.runtimeconfig.json
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao4\Questao4\bin\Debug\net8.0\Questao4.dll
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao4\Questao4\bin\Debug\net8.0\Questao4.pdb
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao4\Questao4\obj\Debug\net8.0\Questao4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao4\Questao4\obj\Debug\net8.0\Questao4.AssemblyInfoInputs.cache
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao4\Questao4\obj\Debug\net8.0\Questao4.AssemblyInfo.cs
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao4\Questao4\obj\Debug\net8.0\Questao4.csproj.CoreCompileInputs.cache
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao4\Questao4\obj\Debug\net8.0\Questao4.sourcelink.json
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao4\Questao4\obj\Debug\net8.0\Questao4.dll
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao4\Questao4\obj\Debug\net8.0\refint\Questao4.dll
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao4\Questao4\obj\Debug\net8.0\Questao4.pdb
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao4\Questao4\obj\Debug\net8.0\Questao4.genruntimeconfig.cache
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao4\Questao4\obj\Debug\net8.0\ref\Questao4.dll

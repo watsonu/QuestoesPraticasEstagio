@@ -1,0 +1,15 @@
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao2\Questao2\bin\Debug\net8.0\Questao2.exe
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao2\Questao2\bin\Debug\net8.0\Questao2.deps.json
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao2\Questao2\bin\Debug\net8.0\Questao2.runtimeconfig.json
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao2\Questao2\bin\Debug\net8.0\Questao2.dll
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao2\Questao2\bin\Debug\net8.0\Questao2.pdb
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao2\Questao2\obj\Debug\net8.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao2\Questao2\obj\Debug\net8.0\Questao2.AssemblyInfoInputs.cache
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao2\Questao2\obj\Debug\net8.0\Questao2.AssemblyInfo.cs
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao2\Questao2\obj\Debug\net8.0\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao2\Questao2\obj\Debug\net8.0\Questao2.sourcelink.json
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao2\Questao2\obj\Debug\net8.0\Questao2.dll
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao2\Questao2\obj\Debug\net8.0\refint\Questao2.dll
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao2\Questao2\obj\Debug\net8.0\Questao2.pdb
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao2\Questao2\obj\Debug\net8.0\Questao2.genruntimeconfig.cache
+C:\Users\watso\OneDrive\Área de Trabalho\CURSO\QuestoesEmprego\QuestoesPraticasEstagio\Questao2\Questao2\obj\Debug\net8.0\ref\Questao2.dll

@@ -1,0 +1,17 @@
+C:\Users\watso\OneDrive\Área de Trabalho\Questao3\Questao3\bin\Debug\net8.0\Questao3.exe
+C:\Users\watso\OneDrive\Área de Trabalho\Questao3\Questao3\bin\Debug\net8.0\Questao3.deps.json
+C:\Users\watso\OneDrive\Área de Trabalho\Questao3\Questao3\bin\Debug\net8.0\Questao3.runtimeconfig.json
+C:\Users\watso\OneDrive\Área de Trabalho\Questao3\Questao3\bin\Debug\net8.0\Questao3.dll
+C:\Users\watso\OneDrive\Área de Trabalho\Questao3\Questao3\bin\Debug\net8.0\Questao3.pdb
+C:\Users\watso\OneDrive\Área de Trabalho\Questao3\Questao3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\watso\OneDrive\Área de Trabalho\Questao3\Questao3\obj\Debug\net8.0\Questao3.csproj.AssemblyReference.cache
+C:\Users\watso\OneDrive\Área de Trabalho\Questao3\Questao3\obj\Debug\net8.0\Questao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\watso\OneDrive\Área de Trabalho\Questao3\Questao3\obj\Debug\net8.0\Questao3.AssemblyInfoInputs.cache
+C:\Users\watso\OneDrive\Área de Trabalho\Questao3\Questao3\obj\Debug\net8.0\Questao3.AssemblyInfo.cs
+C:\Users\watso\OneDrive\Área de Trabalho\Questao3\Questao3\obj\Debug\net8.0\Questao3.csproj.CoreCompileInputs.cache
+C:\Users\watso\OneDrive\Área de Trabalho\Questao3\Questao3\obj\Debug\net8.0\Questao3.csproj.Up2Date
+C:\Users\watso\OneDrive\Área de Trabalho\Questao3\Questao3\obj\Debug\net8.0\Questao3.dll
+C:\Users\watso\OneDrive\Área de Trabalho\Questao3\Questao3\obj\Debug\net8.0\refint\Questao3.dll
+C:\Users\watso\OneDrive\Área de Trabalho\Questao3\Questao3\obj\Debug\net8.0\Questao3.pdb
+C:\Users\watso\OneDrive\Área de Trabalho\Questao3\Questao3\obj\Debug\net8.0\Questao3.genruntimeconfig.cache
+C:\Users\watso\OneDrive\Área de Trabalho\Questao3\Questao3\obj\Debug\net8.0\ref\Questao3.dll
